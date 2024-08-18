@@ -1,0 +1,17 @@
+i{
+    color:white;
+    border: 0.5px solid white;
+    padding:50px;
+    border-radius: 50%;
+    display:inline-block;
+    font-size:30px;
+}
+.icon{
+    transition: transform 0.3s ease;
+}
+.icon:hover {
+    transform: rotate(180deg)
+}
+*{
+    background-color: black;
+}
